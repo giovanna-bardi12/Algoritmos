@@ -1,6 +1,6 @@
 #Algorithm Exercises-CIn/UFPE:
 
-This repository is dedicated to my implementations of lgorithm exercises, as part of my studies at the Center for Informatics (CIn) at UFPE.
+This repository is dedicated to my implementations of algorithm exercises, as part of my studies at the Center for Informatics (CIn) at UFPE.
 
 I am currently a third-semester Computer Science student.
 
